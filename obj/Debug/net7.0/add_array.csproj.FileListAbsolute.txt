@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\New folder\add_array\bin\Debug\net7.0\add_array.exe
+C:\Users\ASUS\Desktop\New folder\add_array\bin\Debug\net7.0\add_array.deps.json
+C:\Users\ASUS\Desktop\New folder\add_array\bin\Debug\net7.0\add_array.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder\add_array\bin\Debug\net7.0\add_array.dll
+C:\Users\ASUS\Desktop\New folder\add_array\bin\Debug\net7.0\add_array.pdb
+C:\Users\ASUS\Desktop\New folder\add_array\obj\Debug\net7.0\add_array.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\add_array\obj\Debug\net7.0\add_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder\add_array\obj\Debug\net7.0\add_array.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder\add_array\obj\Debug\net7.0\add_array.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder\add_array\obj\Debug\net7.0\add_array.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\add_array\obj\Debug\net7.0\add_array.dll
+C:\Users\ASUS\Desktop\New folder\add_array\obj\Debug\net7.0\refint\add_array.dll
+C:\Users\ASUS\Desktop\New folder\add_array\obj\Debug\net7.0\add_array.pdb
+C:\Users\ASUS\Desktop\New folder\add_array\obj\Debug\net7.0\add_array.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder\add_array\obj\Debug\net7.0\ref\add_array.dll
